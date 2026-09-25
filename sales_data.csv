@@ -1,0 +1,13 @@
+Sale_ID,Product,Category,Quantity,Unit_Price
+1,Laptop,Electronics,2,55000
+2,Mouse,Electronics,5,800
+3,Keyboard,Electronics,3,1500
+4,Headphones,Electronics,4,2200
+5,Shirt,Clothing,8,900
+6,Jeans,Clothing,4,1800
+7,Jacket,Clothing,3,2500
+8,Notebook,Stationery,10,100
+9,Pen,Stationery,20,20
+10,Pencil,Stationery,15,10
+11,Shoes,Footwear,3,2500
+12,Sandals,Footwear,6,900
